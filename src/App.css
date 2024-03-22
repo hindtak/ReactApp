@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.header {
+  font-size: 24px;
+  color: rgb(39, 37, 37);
+  
+}
+
+.blog-list {
+  list-style-type: none;
+  padding: 23px;
+}
+
+.blog-item {
+  margin-bottom: 20px;
+}
+
+.input-title,
+.input-description {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.add-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #0056b3;
+}
